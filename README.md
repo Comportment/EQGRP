@@ -1,2 +1,2 @@
 # EQGRP
-The NSA Scripts, Exploits and Tools leaked by The Equation Group ...
+eqgrp-free-file.tar.xz.gpg password: theequationgroup
