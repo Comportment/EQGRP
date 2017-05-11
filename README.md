@@ -1,8 +1,8 @@
 # EQGRP
 ## Passwords
-eqgrp-free-file.tar.xz.gpg password: theequationgroup
+eqgrp-free-file.tar.xz.gpg password: `theequationgroup`
 
-eqgrp-auction-file.tar.xz.gpg password: ????
+eqgrp-auction-file.tar.xz.gpg password: `CrDj”(;Va.*NdlnzB9M?@K2)#>deB7mN`
 
 
 
